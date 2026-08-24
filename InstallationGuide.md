@@ -93,8 +93,9 @@ If you have **ever used Vortex** to mod S.T.A.L.K.E.R. 2:
 6.  Confirm that Vortex is no longer deploying S.T.A.L.K.E.R. 2 mods.
 7.  Close Vortex.
 
-> \[!IMPORTANT\] **Do not use Vortex to manage S.T.A.L.K.E.R. 2 while
-> using Borscht.**
+
+> [!CAUTION]Do not use Vortex to manage S.T.A.L.K.E.R. 2 while
+> using Borscht.
 >
 > Files deployed by Vortex exist outside Borscht's MO2 management and
 > can create conflicts that are difficult to identify.
