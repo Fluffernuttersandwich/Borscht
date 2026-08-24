@@ -308,6 +308,32 @@ than screenshots of the crash reporter.
 
 ------------------------------------------------------------------------
 
+## Common Installation Problems
+
+### Wabbajack Issues
+
+- Update Wabbajack to the **latest version**
+- Old versions **do not support Stalker2**
+- Sign into NexusMods from Wabbajack Settings
+- Clear Wabbajack cache occasionally
+
+To reset Wabbajack:
+1. Close Wabbajack
+2. Press `Win + R`
+3. Enter `%localappdata%`
+4. Delete the `_Wabbajack_` folder
+5. Relaunch and log in again
+
+---
+
+### NexusMods Login
+
+You **must** be logged into Nexus Mods **inside the Wabbajack application**.
+
+Being logged in via browser alone is not enough.
+
+---
+
 ## 💬 Borscht Support
 
 Support is provided through the **Smörgåsbord Discord Server**.
