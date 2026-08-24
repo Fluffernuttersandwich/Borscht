@@ -48,6 +48,11 @@ The original **Borscht** Profile remains available as your clean reference.
 
 Your `[NoDelete]` Profile becomes your personal configuration.
 
+
+You must also put `[NoDelete]` in front of every mod you add from outside of the list. 
+
+This is the only way off-list mods you add will remain after you update the list through Wabbajack!
+
 ---
 
 ## Step 1 – Open the Profile Menu in MO2
