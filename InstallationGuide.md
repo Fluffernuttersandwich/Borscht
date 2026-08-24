@@ -94,8 +94,8 @@ If you have **ever used Vortex** to mod S.T.A.L.K.E.R. 2:
 7.  Close Vortex.
 
 
-> [!CAUTION]Do not use Vortex to manage S.T.A.L.K.E.R. 2 while
-> using Borscht.
+> [!CAUTION]
+> Do not use Vortex to manage S.T.A.L.K.E.R. 2 while using Borscht.
 >
 > Files deployed by Vortex exist outside Borscht's MO2 management and
 > can create conflicts that are difficult to identify.
@@ -134,10 +134,14 @@ Look for files such as:
 
 and any mod folders/packages you previously installed manually.
 
-> \[!CAUTION\] Do **not** simply assume this folder is clean because
+
+> [!CAUTION]
+>
+> Do **not** simply assume this folder is clean because
 > Vortex says your mods are disabled.
 >
 > **Open the folder and check it yourself.**
+
 
 Borscht will manage its own mod files through MO2. Do not manually copy
 Borscht's PAK files into the vanilla `~mods` directory.
@@ -201,8 +205,8 @@ https://www.wabbajack.org/
 
 Open Wabbajack and sign into **Nexus Mods** when prompted.
 
-> \[!TIP\] Keep Wabbajack and your mod list outside Windows-protected
-> folders.
+> [!TIP]
+> Keep Wabbajack and your mod list outside Windows-protected folders.
 
 Avoid installing Borscht into locations such as:
 
@@ -260,7 +264,9 @@ Example:
 D:\Wabbajack_ModLists\Borscht\downloads
 ```
 
-> [!WARNING]The **Installation Location must not be your
+> [!WARNING]
+>
+> The **Installation Location must not be your
 > S.T.A.L.K.E.R. 2 game directory** and must not be the same folder as
 > another Wabbajack list.
 
@@ -338,7 +344,9 @@ In MO2:
     executable dropdown.
 3.  Click **Run**.
 
-> [!IMPORTANT] ALWAYS launch Borscht through Mod Organizer 2.
+> [!IMPORTANT]
+>
+> ALWAYS launch Borscht through Mod Organizer 2.
 >
 > Steam may be running in the background,
 > but **MO2 should initiate the Borscht game launch**.
@@ -402,7 +410,8 @@ Pay attention to:
 
 Cursor-hover over MO2 Notes when additional information is available.
 
-> [!TIP] Read highlighted warnings before enabling or disabling unfamiliar mods.
+> [!TIP]
+> Read highlighted warnings before enabling or disabling unfamiliar mods.
 
 ------------------------------------------------------------------------
 
@@ -434,7 +443,8 @@ However, some mods:
 
 Advanced users may add additional mods through MO2.
 
-> [!WARNING]Support is provided against the official Borscht configuration.
+> [!WARNING]
+> Support is provided against the _official_ Borscht Profile configuration only!
 >
 > You are welcome to customize Borscht, but if you encounter a problem
 > you may be asked to reproduce it using the unmodified/default Borscht
@@ -481,7 +491,9 @@ Before updating:
 Wabbajack can reuse archives already present in the download folder, so
 an update generally does not require downloading the entire list again.
 
-> [!CAUTION] Wabbajack updates can remove or replace files that are
+> [!CAUTION]
+>
+> Wabbajack updates can remove or replace files that are
 > not part of the official list.
 >
 > Keep personal modifications organized and preserve anything important
