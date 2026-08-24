@@ -102,7 +102,6 @@ Many included mods can be individually enabled or disabled through Mod Organizer
 - **Platform:** PC
 - **Distribution:** Wabbajack
 - **Mod Manager:** Mod Organizer 2
-- **Current Supported Game Version:** *To be announced with the first public release*
 
 Your installed game version must match the version supported by the current Borscht release.
 
