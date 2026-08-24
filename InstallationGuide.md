@@ -9,7 +9,7 @@ Borscht is a modular **Vanilla+ Wabbajack Mod List** using **Mod
 Organizer 2 (MO2)**. It is designed to improve and expand the Zone while
 keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
-> [!IMPORTANT\] **Borscht expects a clean, unmodded S.T.A.L.K.E.R. 2
+> \[!IMPORTANT\] **Borscht expects a clean, unmodded S.T.A.L.K.E.R. 2
 > installation.**
 >
 > Mods left behind by **Steam Workshop, Vortex, or manual installation**
@@ -92,6 +92,9 @@ If you have **ever used Vortex** to mod S.T.A.L.K.E.R. 2:
 > Files deployed by Vortex exist outside Borscht's MO2 management and
 > can create conflicts that are difficult to identify.
 
+<img width="2652" height="1118" alt="image" src="https://github.com/user-attachments/assets/1446e6d3-4d3e-4f4d-bf1c-3c7613226d26" />
+
+
 ------------------------------------------------------------------------
 
 ## 🟡 Step 3 -- Empty the Vanilla `~mods` Folder
@@ -131,6 +134,10 @@ and any mod folders/packages you previously installed manually.
 Borscht will manage its own mod files through MO2. Do not manually copy
 Borscht's PAK files into the vanilla `~mods` directory.
 
+
+<img width="2432" height="586" alt="image" src="https://github.com/user-attachments/assets/60f9d9ac-0a34-4119-bd5e-bc862f6ee826" />
+
+
 ------------------------------------------------------------------------
 
 ## 🟢 Step 4 -- Verify the Vanilla Game
@@ -151,6 +158,10 @@ If the vanilla game does not launch correctly, **stop here and fix the
 vanilla installation before installing Borscht**.
 
 This gives us a known-good baseline for troubleshooting.
+
+
+<img width="3762" height="1334" alt="image" src="https://github.com/user-attachments/assets/a71df74c-0663-4026-8e14-58256475b74c" />
+
 
 ------------------------------------------------------------------------
 
