@@ -10,8 +10,12 @@ continue an existing save.
 If you are happy with your current playthrough, **stay on your current
 revision until you are ready to start a new game.**
 
-Major changes to: - Stalker 2 itself - The Cost of Hope DLC - Mod
-frameworks - Gameplay overhauls - Script changes
+Major changes to: 
+- Stalker 2 itself
+- The Cost of Hope DLC
+- Mod frameworks
+- Gameplay overhauls
+- Script changes
 
 can potentially affect existing saves.
 
@@ -44,7 +48,7 @@ existing save was never designed to handle.
 
 ## 📢 UPDATE NOTIFICATIONS
 
-Check **#borscht-changelog** for new Borscht revisions and important
+Check **#borscht-updates** for new Borscht revisions and important
 update information.
 
 Want to be notified when a new Borscht revision is released?
