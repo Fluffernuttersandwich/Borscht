@@ -122,7 +122,8 @@ During the Wabbajack update process, you may see files being:
 
 This is a normal part of updating Borscht.
 
-\[INSERT IMAGE\]
+<img width="1376" height="1143" alt="image" src="https://github.com/user-attachments/assets/dd5a7ca0-28e2-4923-8394-a2f952ee44c5" />
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
