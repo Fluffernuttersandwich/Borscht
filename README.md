@@ -39,7 +39,7 @@
 
 > A hearty soup made from a variety of ingredients.
 
-> A suspiciously large assortment of S.T.A.L.K.E.R. 2 mods thrown into one bowl by FNS.
+> A suspiciously large assortment of S.T.A.L.K.E.R. 2 mods thrown into one bowl by FinFNS.
 
 
 ---
