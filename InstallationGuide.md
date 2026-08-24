@@ -9,9 +9,8 @@ Borscht is a modular **Vanilla+ Wabbajack Mod List** using **Mod
 Organizer 2 (MO2)**. It is designed to improve and expand the Zone while
 keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
-> \[!IMPORTANT\] **Borscht expects a clean, unmodded S.T.A.L.K.E.R. 2
-> installation.**
->
+> [!CAUTION]
+> **Borscht expects a clean, unmodded S.T.A.L.K.E.R. 2 installation.**
 > Mods left behind by **Steam Workshop, Vortex, or manual installation**
 > can load outside of Borscht's MO2 setup and cause conflicts that MO2
 > cannot properly manage or troubleshoot.
@@ -65,7 +64,7 @@ Steam Workshop files for S.T.A.L.K.E.R. 2 are normally stored beneath:
 After unsubscribing, inspect that location for leftover Workshop
 content.
 
-> \[!WARNING\] An empty `~mods` folder does **not** by itself prove that
+> [!WARNING] An empty `~mods` folder does **not** by itself prove that
 > your game is unmodded. Steam Workshop content is stored separately.
 
 Do not subscribe to Steam Workshop mods while using the official Borscht
@@ -256,7 +255,7 @@ Example:
 D:\Wabbajack_ModLists\Borscht\downloads
 ```
 
-> \[!WARNING\] The **Installation Location must not be your
+> [!WARNING]The **Installation Location must not be your
 > S.T.A.L.K.E.R. 2 game directory** and must not be the same folder as
 > another Wabbajack list.
 
@@ -334,12 +333,12 @@ In MO2:
     executable dropdown.
 3.  Click **Run**.
 
-> \[!IMPORTANT\] \## ALWAYS launch Borscht through Mod Organizer 2.
+> [!IMPORTANT] ALWAYS launch Borscht through Mod Organizer 2.
 >
-> Steam may be running in the background, but **MO2 should initiate the
-> Borscht game launch**.
+> Steam may be running in the background,
+> but **MO2 should initiate the Borscht game launch**.
 >
-> Do not launch the game from a normal Steam shortcut, desktop
+> Do _not_ launch the game from a normal Steam shortcut, desktop
 > S.T.A.L.K.E.R. 2 shortcut, or the game's executable when you intend to
 > play Borscht.
 
@@ -398,8 +397,7 @@ Pay attention to:
 
 Cursor-hover over MO2 Notes when additional information is available.
 
-> \[!TIP\] **Read highlighted warnings before enabling or disabling
-> unfamiliar mods.**
+> [!TIP] Read highlighted warnings before enabling or disabling unfamiliar mods.
 
 ------------------------------------------------------------------------
 
@@ -431,8 +429,7 @@ However, some mods:
 
 Advanced users may add additional mods through MO2.
 
-> \[!WARNING\] **Support is provided against the official Borscht
-> configuration.**
+> [!WARNING]Support is provided against the official Borscht configuration.
 >
 > You are welcome to customize Borscht, but if you encounter a problem
 > you may be asked to reproduce it using the unmodified/default Borscht
@@ -479,7 +476,7 @@ Before updating:
 Wabbajack can reuse archives already present in the download folder, so
 an update generally does not require downloading the entire list again.
 
-> \[!CAUTION\] Wabbajack updates can remove or replace files that are
+> [!CAUTION] Wabbajack updates can remove or replace files that are
 > not part of the official list.
 >
 > Keep personal modifications organized and preserve anything important
