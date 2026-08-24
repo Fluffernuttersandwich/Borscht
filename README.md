@@ -487,3 +487,6 @@ We provide the ingredients.
 ---
 
 # ☢️ Good hunting, Stalker.
+
+
+Donations are appreciated: https://ko-fi.com/finfns
