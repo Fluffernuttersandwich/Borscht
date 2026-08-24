@@ -2,6 +2,10 @@
 
 > **A modular Vanilla+ Wabbajack mod list for S.T.A.L.K.E.R. 2: Heart of Chornobyl**
 
+
+## Currently Supported Game Version: 2.0
+
+
 <img width="1254" height="1254" alt="Borscht1" src="https://github.com/user-attachments/assets/47bcb6c8-a659-4871-b613-0a9ed977933e" />
 
 ---
