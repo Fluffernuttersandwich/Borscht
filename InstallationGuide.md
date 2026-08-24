@@ -9,7 +9,7 @@ Borscht is a modular **Vanilla+ Wabbajack Mod List** using **Mod
 Organizer 2 (MO2)**. It is designed to improve and expand the Zone while
 keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
-> \[!IMPORTANT\] **Borscht expects a clean, unmodded S.T.A.L.K.E.R. 2
+> [!IMPORTANT\] **Borscht expects a clean, unmodded S.T.A.L.K.E.R. 2
 > installation.**
 >
 > Mods left behind by **Steam Workshop, Vortex, or manual installation**
