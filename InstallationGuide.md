@@ -71,6 +71,10 @@ content.
 Do not subscribe to Steam Workshop mods while using the official Borscht
 configuration unless Borscht specifically instructs you to do so.
 
+
+<img width="1652" height="570" alt="image" src="https://github.com/user-attachments/assets/bf5d9c36-7174-4d32-a3c4-65aaa1a23eee" />
+
+
 ------------------------------------------------------------------------
 
 ## 🟠 Step 2 -- Remove Vortex Mods
