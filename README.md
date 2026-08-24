@@ -99,13 +99,13 @@ Many included mods can be individually enabled or disabled through Mod Organizer
 ## Compatibility
 
 - **Game:** S.T.A.L.K.E.R. 2: Heart of Chornobyl
-- **Platform:** PC
+- **Platform:** PC, specifically Windows 10/11, from Steam
 - **Distribution:** Wabbajack
 - **Mod Manager:** Mod Organizer 2
 
 Your installed game version must match the version supported by the current Borscht release.
 
-### ⚠️ Game Updates
+### ⚠️ Game Version Updates
 
 S.T.A.L.K.E.R. 2 is actively updated.
 
@@ -113,7 +113,7 @@ Major game patches can temporarily break individual mods or the entire mod list.
 
 **Do not assume a new S.T.A.L.K.E.R. 2 update is compatible with Borscht until compatibility has been confirmed.**
 
-Always check the current Borscht release information before updating.
+Always check the current Borscht release information in the Discord before updating.
 
 
 ---
