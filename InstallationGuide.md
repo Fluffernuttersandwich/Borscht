@@ -68,7 +68,8 @@ After unsubscribing, inspect that location for leftover Workshop
 content.
 
 
-> [!WARNING]An empty `~mods` folder does **not** by itself prove that
+> [!WARNING]
+> An empty `~mods` folder does **not** by itself prove that
 > your game is unmodded. Steam Workshop content is stored separately.
 
 Do not subscribe to Steam Workshop mods while using the official Borscht
