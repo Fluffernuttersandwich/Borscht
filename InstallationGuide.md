@@ -1,5 +1,8 @@
 # 🥣 Borscht Mod List -- Installation Guide
 
+> [!WARNING]
+> An empty `~mods` folder does **not** by itself prove that
+
 ## 📌 Overview
 
 Welcome to the **Borscht Mod List Installation Guide** for
@@ -8,6 +11,9 @@ Welcome to the **Borscht Mod List Installation Guide** for
 Borscht is a modular **Vanilla+ Wabbajack Mod List** using **Mod
 Organizer 2 (MO2)**. It is designed to improve and expand the Zone while
 keeping the experience recognizable as S.T.A.L.K.E.R. 2.
+
+
+## Currently Supported Game Version: 2.0
 
 
 > [!CAUTION]
@@ -20,21 +26,47 @@ keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
 ------------------------------------------------------------------------
 
+## 🛠️ Required Software
+
+Before installing Borscht, please make sure you have the following installed:
+
+
+### ✅ Microsoft Visual C++ Redistributable (x64)
+
+Many Windows games, modding tools, and native plugins require the Microsoft Visual C++ runtime libraries.
+
+If you already have it installed, you can skip this step.
+
+Download:
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+
+### ✅ S.T.A.L.K.E.R. 2: Heart of Chornobyl
+
+Borscht requires a legitimate **Steam** installation of S.T.A.L.K.E.R. 2: Heart of Chornobyl.
+
+I do not have a GOG copy to test
+
+The game must be installed and updated before installing the mod list.
+
+
 ## ⚙️ System Requirements
+
+- Windows 10 / 11 (I do not currently support Linux installations)
 
 If you can comfortably run vanilla **S.T.A.L.K.E.R. 2**, you should have
 a reasonable starting point for Borscht.
 
 Some optional mods may be more demanding than the vanilla game.
 
+
 ### Recommended
 
--   Windows 10 / 11
 -   SSD strongly recommended
 -   16 GB RAM minimum; more is recommended for S.T.A.L.K.E.R. 2
 -   Enough free disk space for S.T.A.L.K.E.R. 2, Borscht, and Wabbajack
     download archives
--   A legal, supported copy of **S.T.A.L.K.E.R. 2: Heart of Chornobyl**
+
 
 ------------------------------------------------------------------------
 
