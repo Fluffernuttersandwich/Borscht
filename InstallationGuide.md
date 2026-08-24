@@ -221,15 +221,10 @@ Your Borscht installation and vanilla S.T.A.L.K.E.R. 2 installation are
 
 1.  Open **Wabbajack**.
 2.  Browse Modlists.
-3.  Locate **Borscht**.
-4.  Select **Download & Install**.
-
-### If installing from a downloaded `.wabbajack` file
-
-1.  Open **Wabbajack**.
-2.  Select **Install from Disk**.
-3.  Select the Borscht `.wabbajack` file.
-4.  Set the installation location.
+3.  Make sure the Include -> Non-featured is checked.
+4.  Use the Dropdown Arrow to select **Stalker 2**
+5.  Locate **Borscht**.
+6.  Select **Download & Install**.
 
 Recommended:
 
@@ -237,7 +232,7 @@ Recommended:
 D:\Wabbajack_ModLists\Borscht
 ```
 
-Wabbajack will also specify a **Download Location** for the original mod
+Wabbajack will automatically populate a **Download Location** for the original mod
 archives.
 
 Example:
@@ -381,7 +376,7 @@ Pay attention to:
 -   MO2 separators/categories
 -   Mod names
 -   The **Notes** column
--   Compatibility warnings
+-   Compatibility warning Pop-Ups
 -   Required dependencies
 -   Optional variants
 -   Mods marked as unsafe to change during an existing playthrough
@@ -500,7 +495,7 @@ Confirm all of the following:
 -   [ ] Borscht is installed outside Windows-protected folders.
 -   [ ] Borscht is **not** installed inside the S.T.A.L.K.E.R. 2 game
     directory.
--   [ ] I launch Borscht through its included Mod Organizer 2.
+-   [ ] I launch Borscht through its _included_ Mod Organizer 2.
 -   [ ] I tested the issue using the official/default Borscht profile.
 
 ------------------------------------------------------------------------
@@ -528,7 +523,7 @@ those changes are **not** automatically removed by deleting Borscht.
 
 Borscht is built around a simple idea:
 
-> **Keep the vanilla game clean. Let MO2 manage the mods.**
+> **Keep the vanilla game clean. Let MO2 manage the mods in its virtual file system.**
 
 For the smoothest experience:
 
@@ -542,4 +537,4 @@ For the smoothest experience:
 
 Welcome to the Zone.
 
-🥣 **Enjoy Borscht.**
+🥣 **Enjoy your Borscht.**
