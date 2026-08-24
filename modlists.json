@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Borscht",
+    "description": "A modular Vanilla+ Wabbajack mod list for S.T.A.L.K.E.R. 2: Heart of Chornobyl.",
+    "author": "FNS",
+    "maintainers": [
+      "github/Fluffernuttersandwich"
+    ],
+    "game": "stalker2heartofchornobyl",
+    "tags": [
+      "vanilla-plus",
+      "modular",
+      "quality-of-life",
+      "stalker2"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "PLACEHOLDER_IMAGE_URL",
+      "readme": "https://github.com/Fluffernuttersandwich/Borscht",
+      "download": "PLACEHOLDER_WABBAJACK_DOWNLOAD_URL",
+      "machineURL": "Borscht",
+      "discordURL": "https://discord.gg/Ay2pVZHE7S"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "",
+      "Size": 0,
+      "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
+      "NumberOfInstalledFiles": 0,
+      "SizeOfInstalledFiles": 0
+    },
+    "version": "2.0.0.0"
+  }
+]
