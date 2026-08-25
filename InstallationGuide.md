@@ -47,10 +47,11 @@ If you already have it installed, you can skip this step.
 
 Borscht requires a legitimate **Steam** installation of S.T.A.L.K.E.R. 2: Heart of Chornobyl.
 
-I do not have a GOG copy to test
-
 The game must be installed and updated before installing the mod list.
 
+Currently I only support **Steam** installations. I do not have Stalker2 from other retailers to test. 
+
+If you want to donate a copy from a different Platform like GOG, or help me figure it out, I'd be grateful.
 
 ## ⚙️ System Requirements
 
