@@ -270,8 +270,13 @@ C:\
 I'd recommend creating a folder like one of these for installing the wabbajack.exe file into like this:
 ``` text
 C:\Wabbajack
+or
 D:\Wabbajack
 ```
+
+
+<img width="1414" height="748" alt="image" src="https://github.com/user-attachments/assets/10369f77-189e-4009-a204-d78c112d7fe0" />
+
 
 Do **not** use your S.T.A.L.K.E.R. 2 game directory as the Borscht
 installation location. 
@@ -286,6 +291,8 @@ A simple folder near the root of an SSD is recommended.
 Example:
 
 ``` text
+C:\Wabbajack_ModLists\Borscht
+or
 D:\Wabbajack_ModLists\Borscht
 ```
 
@@ -296,11 +303,11 @@ Your Borscht installation and vanilla S.T.A.L.K.E.R. 2 installation are
 
 # ⬇️ Step 8 -- Install Borscht
 
-### If Borscht is available in the Wabbajack Gallery
+### Borscht is available in the Wabbajack Gallery
 
-1.  Open **Wabbajack**.
+1.  Open the **Wabbajack** application by running wabbajack.exe.
 2.  Browse Modlists.
-3.  Make sure the Include -> Non-featured is checked.
+3.  Make sure the Include -> Non-featured box is checked.
 4.  Use the Dropdown Arrow to select **Stalker 2**
 5.  Locate **Borscht**.
 6.  Select **Download & Install**.
@@ -334,13 +341,16 @@ Click **Install** and allow Wabbajack to complete.
 
 ### 💎 Premium
 
--   Downloads are largely automated
--   Installation speed depends on your connection, storage, and hardware
+-   "One-touch" download process. Downloads are automated
+-   Faster download speeds.
 
 ### 🆓 Free
 
--   Nexus downloads require manual interaction
--   Expect considerably more clicking and installation time
+-   Nexus downloads require you to manual click through each download page one at a time.
+-   Expect considerably more clicking and slower download speeds.
+
+
+Installation speed depends on your connection, storage speed, and hardware
 
 ------------------------------------------------------------------------
 
@@ -351,14 +361,17 @@ Click **Install** and allow Wabbajack to complete.
 First:
 
 1.  Wait a few minutes.
-2.  Run the Borscht installation again using the **same installation and
+2.  Run the Borscht download and installation process again from the Wabbajack application. Using the **same installation and
     download paths**.
 
-Wabbajack can reuse files that were already downloaded successfully.
+
+Wabbajack will reuse files that were already downloaded successfully.
+
 
 If a required archive has been removed or replaced by a mod author,
 Borscht itself may need an update before Wabbajack can complete the
 installation.
+
 
 ## ❌ Game File Source Missing
 
@@ -368,8 +381,8 @@ release.
 
 Confirm:
 
--   Steam has finished updating S.T.A.L.K.E.R. 2
--   You own a legitimate copy of the game
+-   Steam has finished Installing/Updating S.T.A.L.K.E.R. 2
+-   You own a legitimate copy of the game (we will not help you with pirated versions!)
 -   The Borscht release supports your currently installed game version
 -   Steam verification completed successfully
 
@@ -390,8 +403,10 @@ ModOrganizer.exe
 
 # ▶️ Step 9 -- Launch Borscht Through MO2
 
-On first launch, MO2 may ask about Nexus/NXM integration. Accept the
-association when appropriate.
+On first launch, MO2 may ask about Nexus/NXM integration. 
+Accept the association when appropriate. 
+This simply tells NexusMods that you want this instance of MO2 to be able to download mods directly.
+
 
 In MO2:
 
@@ -434,7 +449,7 @@ In MO2:
 Profile Dropdown → Manage
 ```
 
-Copy the supplied **Borscht** profile and rename it.
+Copy the supplied **Borscht** profile and rename it as you like.
 
 Examples:
 
@@ -459,10 +474,12 @@ Pay attention to:
 -   MO2 separators/categories
 -   Mod names
 -   The **Notes** column
+-   Highlighted Notes contain very important information!
 -   Compatibility warning Pop-Ups
 -   Required dependencies
 -   Optional variants
 -   Mods marked as unsafe to change during an existing playthrough
+-   Mods that require a New Save
 
 Cursor-hover over MO2 Notes when additional information is available.
 
@@ -482,6 +499,7 @@ However, some mods:
 -   Replace the same S.T.A.L.K.E.R. 2 assets
 -   Are intended as mutually exclusive variants
 -   May not be safe to add/remove from an existing save
+-   Require a New Save
 
 ### Best Practices
 
@@ -536,8 +554,8 @@ tested mod updates.
 
 Before updating:
 
-1.  Read the Borscht changelog.
-2.  Pay attention to warnings about save compatibility.
+1.  Read the Borscht changelog in the Discord's #borscht-updates channel or NexusMods Collection page.
+2.  Pay attention to warnings about save compatibility. Updating the list often requires a New Save!
 3.  Close MO2 and S.T.A.L.K.E.R. 2.
 4.  Open Wabbajack.
 5.  Install the new Borscht release using the **same Borscht
