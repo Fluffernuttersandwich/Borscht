@@ -69,7 +69,8 @@ S.T.A.L.K.E.R. 2 before.
 
 
 > [!WARNING]
-> An empty `~mods` folder does **not** by itself prove that
+> An empty `~mods` folder does **not** by itself prove
+> that your installation is clean.
 
 
 Borscht cannot reliably manage mods that are being loaded outside of its
