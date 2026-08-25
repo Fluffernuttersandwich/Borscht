@@ -14,6 +14,24 @@ keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
 ------------------------------------------------------------------------
 
+## ⚙️ System Requirements
+
+- Windows 10 / 11 (I do not currently support Linux installations)
+
+If you can comfortably run vanilla **S.T.A.L.K.E.R. 2**, you should have
+a reasonable starting point for Borscht.
+
+Some optional mods may be more demanding than the vanilla game.
+
+
+### Recommended
+
+-   SSD strongly recommended
+-   16 GB RAM minimum; more is recommended for S.T.A.L.K.E.R. 2
+-   Enough free disk space for S.T.A.L.K.E.R. 2, Borscht, and Wabbajack
+    download archives
+
+
 ## 🛠️ Required Software
 
 Before installing Borscht, please make sure you have the following installed:
@@ -41,22 +59,6 @@ Currently I only support **Steam** installations. I do not have Stalker2 from ot
 
 If you want to donate a copy from a different Platform like GOG, or help me figure it out, I'd be grateful.
 
-## ⚙️ System Requirements
-
-- Windows 10 / 11 (I do not currently support Linux installations)
-
-If you can comfortably run vanilla **S.T.A.L.K.E.R. 2**, you should have
-a reasonable starting point for Borscht.
-
-Some optional mods may be more demanding than the vanilla game.
-
-
-### Recommended
-
--   SSD strongly recommended
--   16 GB RAM minimum; more is recommended for S.T.A.L.K.E.R. 2
--   Enough free disk space for S.T.A.L.K.E.R. 2, Borscht, and Wabbajack
-    download archives
 
 ------------------------------------------------------------------------
 
