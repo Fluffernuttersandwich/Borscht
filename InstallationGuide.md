@@ -6,7 +6,9 @@ Welcome to the **Borscht Mod List Installation Guide** for
 **S.T.A.L.K.E.R. 2: Heart of Chornobyl**.
 
 Borscht is a modular **Vanilla+ Wabbajack Mod List** using **Mod
-Organizer 2 (MO2)**. It is designed to improve and expand the Zone while
+Organizer 2 (MO2)**. 
+
+It is designed to improve and expand the Zone while
 keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
 
