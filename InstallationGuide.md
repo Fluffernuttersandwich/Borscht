@@ -259,8 +259,20 @@ C:\Users\<You>\Desktop\
 C:\Users\<You>\OneDrive\
 ```
 
+You _cannot_ run the wabbajack.exe from: 
+``` text
+C:\
+```
+
 Do **not** use your S.T.A.L.K.E.R. 2 game directory as the Borscht
 installation location.
+
+I'd recommend creating a folder like one of these for installing the wabbajack.exe file into like this:
+``` text
+C:\Wabbajack
+D:\Wabbajack
+```
+
 
 ------------------------------------------------------------------------
 
