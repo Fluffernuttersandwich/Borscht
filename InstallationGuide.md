@@ -31,14 +31,16 @@ keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 Before installing Borscht, please make sure you have the following installed:
 
 
-### ✅ Microsoft Visual C++ Redistributable (x64)
+### ✅ Microsoft Visual C++ Redistributable (x64) and .NET
 
 Many Windows games, modding tools, and native plugins require the Microsoft Visual C++ runtime libraries.
 
 If you already have it installed, you can skip this step.
 
-Download:
-https://aka.ms/vs/17/release/vc_redist.x64.exe
+**Download:**
+
+- Make sure you have all the Visual C++ Redistributable Runtimes installed on your OS. https://aka.ms/vs/17/release/vc_redist.x64.exe
+- Make sure you have the latest .NET Framework installed on your OS. https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
 
 ### ✅ S.T.A.L.K.E.R. 2: Heart of Chornobyl
