@@ -1,8 +1,5 @@
 # 🥣 Borscht Mod List -- Installation Guide
 
-> [!WARNING]
-> An empty `~mods` folder does **not** by itself prove that
-
 ## 📌 Overview
 
 Welcome to the **Borscht Mod List Installation Guide** for
@@ -14,15 +11,6 @@ keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
 
 ## Currently Supported Game Version: 2.0
-
-
-> [!CAUTION]
->
-> **Borscht expects a clean, unmodded S.T.A.L.K.E.R. 2 installation.**
->
-> Mods left behind by **Steam Workshop, Vortex, or manual installation**
-> can load outside of Borscht's MO2 setup and cause conflicts that MO2
-> cannot properly manage or troubleshoot.
 
 ------------------------------------------------------------------------
 
@@ -70,7 +58,6 @@ Some optional mods may be more demanding than the vanilla game.
 -   Enough free disk space for S.T.A.L.K.E.R. 2, Borscht, and Wabbajack
     download archives
 
-
 ------------------------------------------------------------------------
 
 # 🧹 BEFORE INSTALLING -- CLEAN YOUR GAME
@@ -78,8 +65,23 @@ Some optional mods may be more demanding than the vanilla game.
 This section is **mandatory**, especially if you have ever modded
 S.T.A.L.K.E.R. 2 before.
 
+
+> [!WARNING]
+> An empty `~mods` folder does **not** by itself prove that
+
+
 Borscht cannot reliably manage mods that are being loaded outside of its
 MO2 environment.
+
+
+> [!CAUTION]
+>
+> **Borscht expects a clean, unmodded S.T.A.L.K.E.R. 2 installation.**
+>
+> Mods left behind by **Steam Workshop, Vortex, or manual installation**
+> can load outside of Borscht's MO2 setup and cause conflicts that MO2
+> cannot properly manage or troubleshoot.
+
 
 ## 🔵 Step 1 -- Remove Steam Workshop Mods
 
