@@ -12,7 +12,7 @@ It is designed to improve and expand the Zone while
 keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
 
-## Currently Supported Game Version: 2.0
+## Currently Supported Game Version: 2.0.x
 
 ------------------------------------------------------------------------
 
