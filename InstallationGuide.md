@@ -618,6 +618,7 @@ Confirm all of the following:
 -   [ ] Vortex is not deploying S.T.A.L.K.E.R. 2 mods.
 -   [ ] The vanilla game's `Stalker2\Content\Paks\~mods\` folder
     contains no manually installed mods.
+-   [ ] You are not using an Engine.ini file from AppData
 -   [ ] I verified the game through Steam.
 -   [ ] Vanilla S.T.A.L.K.E.R. 2 launches successfully.
 -   [ ] Borscht is installed outside Windows-protected folders.
