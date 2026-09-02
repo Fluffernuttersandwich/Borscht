@@ -253,9 +253,14 @@ https://users.nexusmods.com/register
 
 # 📦 Step 6 -- Install Wabbajack
 
-Download Wabbajack from:
+Download the latest version of the Wabbajack application from:
 
 https://www.wabbajack.org/
+
+
+> [!WARNING]
+> Older versions of Wabbajack will not find the Stalker2 game, you must download the very latest version!
+
 
 Open Wabbajack and sign into **Nexus Mods** when prompted.
 
