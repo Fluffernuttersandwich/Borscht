@@ -314,7 +314,7 @@ than screenshots of the crash reporter.
 
 - Update Wabbajack to the **latest version**
 - Old versions **do not support Stalker2**
-- Sign into NexusMods from Wabbajack Settings
+- Sign into NexusMods from Wabbajack Settings (gearwheel icon)
 - Clear Wabbajack cache occasionally
 
 To reset Wabbajack:
@@ -337,6 +337,22 @@ Exit the Wabbajack application. Go to the Windows Control Panel > Region > use t
 Open Wabbajack up and restart the installation/update process.
 
 <img width="1466" height="1080" alt="image" src="https://github.com/user-attachments/assets/681a106c-f1a0-4d6c-a0e5-30aeda15effd" />
+
+---
+
+## Antivirus & Background Apps
+
+Common offenders:
+- Antivirus
+- Firewalls
+- RGB software
+- Performance overlays
+- SteelSeries
+- iCUE
+
+Create Antivirus exceptions for:
+- `ModOrganizer.exe`
+- `Stalker2`
 
 ---
 
