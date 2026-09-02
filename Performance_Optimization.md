@@ -4,8 +4,8 @@ S.T.A.L.K.E.R. 2 is a demanding Unreal Engine 5 game. At some point,
 almost everyone is going to stare at their FPS counter and wonder where
 all their frames wandered off to.
 
-Before installing performance tweaks, replacing DLLs, sacrificing a
-Bloodsucker to the Monolith, or blaming Borscht, start with the boring
+Before installing performance tweaks, replacing DLLs, 
+or blaming Borscht, start with the boring
 answer:
 
 > **Establish a stable baseline first. Optimize second. Add expensive
