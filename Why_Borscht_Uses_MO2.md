@@ -44,9 +44,10 @@ Borscht is designed around having complete control over the entire mod setup. �
 
 # 🌀 "Why not Vortex?"
 
-Vortex is a capable mod manager and works well for many users. 👍
+Vortex is a capable mod manager for individuals that already know how to troubleshoot its many quirks. 
+But in supporting hundreds to thousands of users through multiple revisions, it becomes a mess.
 
-However, Borscht is built specifically around MO2 because of how it handles **large, complex mod lists**.
+Borscht is built specifically around MO2 because of how it handles **large, complex mod lists**.
 
 The biggest difference is MO2's **Virtual File System (VFS)**.
 
@@ -61,6 +62,10 @@ This means:
 ✅ Troubleshooting is easier because changes are controlled and visible  
 
 One of MO2's greatest advantages is knowing exactly what is active and where it comes from. 🔎
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bc5db4f2-1681-422f-992c-62ca8b86b256" />
+
 
 ---
 
