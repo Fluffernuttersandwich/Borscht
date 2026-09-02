@@ -45,6 +45,10 @@ to spare.
 > upscaling/frame-generation technologies. They should not be
 > interpreted as guaranteed native-resolution performance targets.
 
+
+<img width="2748" height="1426" alt="image" src="https://github.com/user-attachments/assets/f6927819-7e6a-4064-975f-5a75a923fb97" />
+
+
 ------------------------------------------------------------------------
 
 ## 🔧 Tune the Expensive Settings First
