@@ -12,13 +12,15 @@ It is designed to improve and expand the Zone while
 keeping the experience recognizable as S.T.A.L.K.E.R. 2.
 
 
-## Currently Supported Game Version: 2.0.x
+## Currently Supported Game Version: 2.0.x - Exclusively works with Steam Installation only!
 
 ------------------------------------------------------------------------
 
 ## ⚙️ System Requirements
 
-- Windows 10 / 11 (I do not currently support Linux installations)
+- Windows 10 / 11
+_I do not currently support Linux installations, but if you want to try and make a guide, I will post it._
+
 
 If you can comfortably run vanilla **S.T.A.L.K.E.R. 2**, you should have
 a reasonable starting point for Borscht.
@@ -29,7 +31,7 @@ Some of the optional mods (like the ReShades) may be more demanding than the van
 ### Recommended
 
 -   SSD strongly recommended
--   16 GB of system RAM minimum; more is recommended for S.T.A.L.K.E.R. 2
+-   16 GB of system memory (RAM) minimum; more is recommended for S.T.A.L.K.E.R. 2
 -   GPU with 8GB+ of VRAM
 -   Enough free disk space for S.T.A.L.K.E.R. 2, Borscht, and Wabbajack
     download archives
@@ -61,7 +63,8 @@ The game must be installed and updated before installing the mod list.
 Currently I only support **Steam** installations. I do not have Stalker2 from other retailers to test. 
 
 If you want to donate a copy from a different Platform like GOG, or help me figure it out, I'd be grateful.
-
+It would require a Pull Request from Wabbajack's GitHub to work like how I set up this one for Steam:
+https://github.com/wabbajack-tools/wabbajack/pull/2963
 
 ------------------------------------------------------------------------
 
@@ -193,7 +196,10 @@ Borscht's PAK files into the vanilla `~mods` directory.
 
 <img width="2432" height="586" alt="image" src="https://github.com/user-attachments/assets/60f9d9ac-0a34-4119-bd5e-bc862f6ee826" />
 
+---
 
+> [!CAUTION]
+> Do **not** add any mod to this mod list that requires you to manually add/configure an Engine.ini file!
 
 Press **Win + R**, paste the following path, and press **Enter**:
 
@@ -206,8 +212,6 @@ C:\Users\YourUserName\AppData\Local\Stalker2\Saved\Config\Windows
 ```
 
 If it contains an Engine.ini file, you must delete it! 
-
-Do **not** add any mod to this mod list that requires you to manually add/configure an Engine.ini file!
 
 
 <img width="1704" height="923" alt="image" src="https://github.com/user-attachments/assets/b676aba5-88b0-49fd-bd1a-169cf622cb06" />
