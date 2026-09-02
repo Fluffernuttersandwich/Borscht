@@ -26,6 +26,7 @@
 - [Support & Community](#support--community)
 - [Troubleshooting](#troubleshooting)
 - [Known Issues](#known-issues)
+- [Performance_Optimization](#performance-optimization)
 - [Credits](#credits)
 
 
@@ -433,6 +434,13 @@ Known Borscht-specific problems, temporary workarounds, broken mods, and game-ve
 
 **[Known Issues](KNOWN_ISSUES.md)**
 
+---
+
+## Performance Optimization
+
+Recommendations for visual settings and how to get the most out of your hardware.
+
+**[Performance_Optimization](Performance_Optimization.md)**
 
 ---
 
