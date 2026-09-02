@@ -194,7 +194,16 @@ Borscht's PAK files into the vanilla `~mods` directory.
 <img width="2432" height="586" alt="image" src="https://github.com/user-attachments/assets/60f9d9ac-0a34-4119-bd5e-bc862f6ee826" />
 
 
-Check: C:\Users\YourUserName\AppData\Local\Stalker2\Saved\Config\Windows folder.
+
+Press **Win + R**, paste the following path, and press **Enter**:
+
+``` text
+%LOCALAPPDATA%\Stalker2\Saved\Config\Windows
+```
+
+``` text
+C:\Users\YourUserName\AppData\Local\Stalker2\Saved\Config\Windows
+```
 
 If it contains an Engine.ini file, you must delete it! 
 
