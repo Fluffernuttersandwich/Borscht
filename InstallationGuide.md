@@ -435,7 +435,7 @@ In MO2:
 >
 > Do _not_ launch the game from a normal Steam shortcut, desktop
 > S.T.A.L.K.E.R. 2 shortcut, or the game's executable when you intend to
-> play Borscht.
+> play Borscht. Doing that will load the vanilla game.
 
 💡 You may want to pin Borscht's `ModOrganizer.exe` to your taskbar or
 create a convenient shortcut.
