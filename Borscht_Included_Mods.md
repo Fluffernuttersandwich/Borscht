@@ -56,6 +56,7 @@
 
   ○ Optional                          [PRZ - DLSS5 Add-on for PRZ PHOTOREALISTIC
                                       ZONE](https://www.nexusmods.com/stalker2heartofchornobyl/mods/265)
+                                      
   ---------------------------------------------------------------------------------------------------------
 
 ## Weather --- Lighting --- Graphics
