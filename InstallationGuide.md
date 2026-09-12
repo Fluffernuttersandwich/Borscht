@@ -288,6 +288,7 @@ https://www.wabbajack.org/
 
 > [!WARNING]
 > You must be on Wabbajack version 4.3.2.0 or newer.
+> 
 > Older versions of Wabbajack will not find the Stalker2 game, you must download the very latest version!
 
 
