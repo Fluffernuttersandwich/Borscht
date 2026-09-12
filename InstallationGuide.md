@@ -331,7 +331,8 @@ D:\Wabbajack
 
 Do **not** use your S.T.A.L.K.E.R. 2 game directory as the Borscht
 installation location. 
-Do not run the wabbajack.exe from this directory either!
+
+Do not run the wabbajack.exe from your game directory either!
 
 ------------------------------------------------------------------------
 
