@@ -1,4 +1,4 @@
-# Borscht --- Included Mods
+# Borscht --- Included Mods in Mod List version 2.0.5.1
 
 > **Borscht** includes both mods that are **Enabled by Default** and
 > optional mods that are installed with the list but **Disabled by
