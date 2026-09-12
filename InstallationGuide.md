@@ -37,6 +37,9 @@ Some of the optional mods (like the ReShades) may be more demanding than the van
     download archives
 
 
+Borscht is an 8GB download, and unzipped is another 8GB. 
+
+
 ## 🛠️ Required Software
 
 Before installing Borscht, please make sure you have the following installed:
