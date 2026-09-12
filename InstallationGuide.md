@@ -402,6 +402,7 @@ E:\Borscht\downloads
 Click **Install** and allow Wabbajack to complete.
 
 
+<img width="2156" height="968" alt="Install_Guide_2" src="https://github.com/user-attachments/assets/efc4ceef-f8b4-45f5-a6f8-7e1110e1a562" />
 <img width="1892" height="928" alt="Install_Guide_3" src="https://github.com/user-attachments/assets/c278a5ec-9e88-49c4-9dc2-f97f21493a39" />
 <img width="2609" height="1236" alt="Install_Guide_4" src="https://github.com/user-attachments/assets/0a4916cd-9a4e-482e-8b82-3dc2eeeac016" />
 <img width="1886" height="1054" alt="Install_Guide_7" src="https://github.com/user-attachments/assets/4932f799-448e-4ec3-8560-d41de2f1a831" />
