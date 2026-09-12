@@ -350,8 +350,7 @@ or
 E:\Borscht
 ```
 
-Your Borscht installation and vanilla S.T.A.L.K.E.R. 2 installation are
-**separate locations**.
+Your Wabbajack folder, Borscht installation folder, and vanilla S.T.A.L.K.E.R. 2 installation are all **separate locations**.
 
 ------------------------------------------------------------------------
 
