@@ -103,6 +103,7 @@ Steam > Stalker2 > Manage button (gearwheel icon) > Properties > Updates > set A
 This step protects your game from automatic updates breaking your mod list and saved game!
 
 Wait until FinFNS updates to the latest game version and pushes a new Revision for Borscht! 
+
 When he gives you the all-clear, manually update Stalker2 through Steam, then Borscht through Wabbajack.
 
 
