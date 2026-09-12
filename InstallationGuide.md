@@ -276,10 +276,12 @@ https://www.wabbajack.org/
 > Older versions of Wabbajack will not find the Stalker2 game, you must download the very latest version!
 
 
-<img width="2160" height="974" alt="image" src="https://github.com/user-attachments/assets/5454d880-aee5-4102-a712-3e1056254f29" />
-
-
 Open Wabbajack and sign into **Nexus Mods** when prompted.
+
+
+<img width="2136" height="970" alt="image" src="https://github.com/user-attachments/assets/eb91534e-1664-452d-b24f-8921a4f32fe0" />
+
+
 
 > [!TIP]
 > Keep Wabbajack and your mod list outside Windows-protected folders.
@@ -327,6 +329,8 @@ Example:
 C:\Wabbajack_ModLists\Borscht
 or
 D:\Wabbajack_ModLists\Borscht
+or
+E:\Borscht
 ```
 
 Your Borscht installation and vanilla S.T.A.L.K.E.R. 2 installation are
