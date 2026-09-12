@@ -358,6 +358,10 @@ Your Wabbajack folder, Borscht installation folder, and vanilla S.T.A.L.K.E.R. 2
 
 ### Borscht is not _currently_ available in the Wabbajack Gallery
 
+
+<img width="1812" height="822" alt="image" src="https://github.com/user-attachments/assets/59611653-a7c3-4291-a8bc-d1c90a98845b" />
+
+
 Download the Borscht.wabbajack file from the NexusMods page: https://www.nexusmods.com/stalker2heartofchornobyl/mods/2376?tab=files
 
 1.  Open the **Wabbajack** application by running wabbajack.exe.
@@ -396,6 +400,12 @@ E:\Borscht\downloads
 > another Wabbajack list.
 
 Click **Install** and allow Wabbajack to complete.
+
+
+<img width="1892" height="928" alt="Install_Guide_3" src="https://github.com/user-attachments/assets/c278a5ec-9e88-49c4-9dc2-f97f21493a39" />
+<img width="2609" height="1236" alt="Install_Guide_4" src="https://github.com/user-attachments/assets/0a4916cd-9a4e-482e-8b82-3dc2eeeac016" />
+<img width="1886" height="1054" alt="Install_Guide_7" src="https://github.com/user-attachments/assets/4932f799-448e-4ec3-8560-d41de2f1a831" />
+
 
 ------------------------------------------------------------------------
 
