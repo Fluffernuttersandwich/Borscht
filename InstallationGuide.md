@@ -92,7 +92,21 @@ MO2 environment.
 > cannot properly manage or troubleshoot.
 
 
-## 🔵 Step 1 -- Remove Steam Workshop Mods
+##  Step 0 -- Disable automatic updates for Stalker2 in Steam
+
+Steam > Stalker2 > Manage button (gearwheel icon) > Properties > Updates > set Automatic Updates to: Wait until I launch the game.
+
+<img width="924" height="550" alt="image" src="https://github.com/user-attachments/assets/e337a854-e167-4107-8a2b-0898ed1c90fc" />
+<img width="1656" height="970" alt="image" src="https://github.com/user-attachments/assets/e07c7a6d-9805-48f4-8d2d-c799c4275409" />
+
+
+This step protects your game from automatic updates breaking your mod list and saved game!
+
+Wait until FinFNS updates to the latest game version and pushes a new Revision for Borscht! 
+When he gives you the all-clear, manually update Stalker2 through Steam, then Borscht through Wabbajack.
+
+
+## 🟣 Step 1 -- Remove Steam Workshop Mods
 
 If you have ever subscribed to S.T.A.L.K.E.R. 2 mods through Steam
 Workshop:
@@ -323,7 +337,7 @@ Do not run the wabbajack.exe from this directory either!
 
 A simple folder near the root of an SSD is recommended.
 
-Example:
+Choose one like the Examples below:
 
 ``` text
 C:\Wabbajack_ModLists\Borscht
@@ -340,19 +354,22 @@ Your Borscht installation and vanilla S.T.A.L.K.E.R. 2 installation are
 
 # ⬇️ Step 8 -- Install Borscht
 
-### Borscht is available in the Wabbajack Gallery
+### Borscht is not currently available in the Wabbajack Gallery
 
 1.  Open the **Wabbajack** application by running wabbajack.exe.
 2.  Browse Modlists.
-3.  Make sure the Include -> Non-featured box is checked.
-4.  Use the Dropdown Arrow to select **Stalker 2**
-5.  Locate **Borscht**.
-6.  Select **Download & Install**.
+3.  Install from Disk button
+4.  Select the Borscht.wabbajack file
+5.  Select and/or create the Installation folder for Borscht.
 
-Recommended:
+Choose the folder you created in Step 7, like the Examples below:
 
 ``` text
+C:\Wabbajack_ModLists\Borscht
+or
 D:\Wabbajack_ModLists\Borscht
+or
+E:\Borscht
 ```
 
 Wabbajack will automatically populate a **Download Location** for the original mod
@@ -361,7 +378,11 @@ archives.
 Example:
 
 ``` text
+C:\Wabbajack_ModLists\Borscht\downloads
+or
 D:\Wabbajack_ModLists\Borscht\downloads
+or
+E:\Borscht\downloads
 ```
 
 > [!WARNING]
@@ -376,18 +397,19 @@ Click **Install** and allow Wabbajack to complete.
 
 ## ⏳ Download Expectations
 
-### 💎 Premium
+### 💎 Nexus Premium Account
 
 -   "One-touch" download process. Downloads are automated
--   Faster download speeds.
+-   Faster download speeds. It should take 2-20 minutes based on your network speed.
 
-### 🆓 Free
+### 🆓 Nexus Free Account
 
--   Nexus downloads require you to manual click through each download page one at a time.
+-   Nexus downloads require you to manually click through each download page one at a time.
 -   Expect considerably more clicking and slower download speeds.
+-   This will take you hours to click through.
 
 
-Installation speed depends on your connection, storage speed, and hardware
+Download and Installation speed and effort depends on your account type, connection, storage speed, and hardware.
 
 ------------------------------------------------------------------------
 
