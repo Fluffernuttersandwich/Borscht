@@ -356,7 +356,9 @@ Your Wabbajack folder, Borscht installation folder, and vanilla S.T.A.L.K.E.R. 2
 
 # ⬇️ Step 8 -- Install Borscht
 
-### Borscht is not currently available in the Wabbajack Gallery
+### Borscht is not _currently_ available in the Wabbajack Gallery
+
+Download the Borscht.wabbajack file from the NexusMods page: 
 
 1.  Open the **Wabbajack** application by running wabbajack.exe.
 2.  Browse Modlists.
@@ -541,6 +543,8 @@ Pay attention to:
 -   Optional variants
 -   Mods marked as unsafe to change during an existing playthrough
 -   Mods that require a New Save
+-   When the MO2 application is locked, do not unlock it, or End MO2 Process, it must exit gracefully to keep your game directory clean!
+-   Be patient when exiting the game! Give MO2 a few minutes to unlock before exiting the application!
 
 Cursor-hover over MO2 Notes when additional information is available.
 
@@ -565,7 +569,7 @@ However, some mods:
 ### Best Practices
 
 -   Never enable/disable mods while the game is running
--   Prefer making major mod changes before starting a serious
+-   Only make major mod changes before starting a serious
     playthrough
 -   Use a test save when experimenting
 -   Keep the official **Borscht** profile intact
@@ -599,8 +603,8 @@ That does **not** automatically mean you should update it.
 
 A newer release may:
 
+-   Mess up existing and functional folder structure
 -   Require a newer game version
--   Change its file/package structure
 -   Add or remove dependencies
 -   Conflict with another Borscht mod
 -   Require changes elsewhere in the list
@@ -616,7 +620,7 @@ tested mod updates.
 Before updating:
 
 1.  Read the Borscht changelog in the Discord's #borscht-updates channel or NexusMods Collection page.
-2.  Pay attention to warnings about save compatibility. Updating the list often requires a New Save!
+2.  Pay attention to warnings about save compatibility. Updating the list may require a New Save!
 3.  Close MO2 and S.T.A.L.K.E.R. 2.
 4.  Open Wabbajack.
 5.  Install the new Borscht release using the **same Borscht
@@ -633,6 +637,8 @@ an update generally does not require downloading the entire list again.
 >
 > Keep personal modifications organized and preserve anything important
 > before updating.
+>
+> Use [NoDelete] in front of the names of Profiles and any off-list mods you added.
 
 ------------------------------------------------------------------------
 
