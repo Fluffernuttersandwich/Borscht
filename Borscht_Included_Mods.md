@@ -21,6 +21,7 @@
   ✓ Enabled                           [MvvUINotificationFramework](https://www.nexusmods.com/stalker2heartofchornobyl/mods/2653)
 
   ✓ Enabled                           [Faster Item Info Panel](https://www.nexusmods.com/stalker2heartofchornobyl/mods/2573)
+  
   --------------------------------------------------------------------------------------------------------------------------------
 
 ## Utilities & Performance
@@ -42,6 +43,7 @@
 
   ○ Optional                          [Frametime Stabilization - 260 Models Per Tick - High-End
                                       PCs](https://www.nexusmods.com/stalker2heartofchornobyl/mods/2011)
+                                      
   ------------------------------------------------------------------------------------------------------------
 
 ## ReShade --- Visual Overhaul
@@ -90,6 +92,7 @@
 
   ✓ Enabled                           [Emission
                                       Tornado](https://www.nexusmods.com/stalker2heartofchornobyl/mods/2275)
+                                      
   --------------------------------------------------------------------------------------------------------------
 
 ## Flora
@@ -111,6 +114,7 @@
 
   ○ Optional                          [Grass pack by
                                       PanKotan](https://www.nexusmods.com/stalker2heartofchornobyl/mods/1530)
+                                      
   -------------------------------------------------------------------------------------------------------------
 
 ## Audio & Visual
@@ -160,6 +164,7 @@
 
   ○ Optional                          [Silent Stealth Mode for
                                       Bloodsucker](https://www.nexusmods.com/stalker2heartofchornobyl/mods/1897)
+                                      
   -----------------------------------------------------------------------------------------------------------------
 
 ## HUD & UI Add-Ons
@@ -226,6 +231,7 @@
 
   ○ Optional                          [Ultrawide and Camera
                                       Tweaks](https://www.nexusmods.com/stalker2heartofchornobyl/mods/2416)
+                                      
   ---------------------------------------------------------------------------------------------------------------
 
 ## Retextures & Reskins
@@ -264,6 +270,7 @@
 
   ✓ Enabled                           [X7 Suit - Black (Skif's
                                       Cinematic)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/1385)
+                                      
   --------------------------------------------------------------------------------------------------------------------
 
 ## Quality of Life
@@ -317,6 +324,7 @@
 
   ✓ Enabled                           [Ace's Real
                                       Flashlight](https://www.nexusmods.com/stalker2heartofchornobyl/mods/1450)
+                                      
   ----------------------------------------------------------------------------------------------------------------
 
 ## System Overhauls
@@ -370,6 +378,7 @@
 
   ○ Optional                          [Simple Scarcity - Corpse
                                       Consumables](https://www.nexusmods.com/stalker2heartofchornobyl/mods/2646)
+                                      
   ----------------------------------------------------------------------------------------------------------------
 
 ## Inventory Management Simulator
@@ -384,6 +393,7 @@
 
   ○ Optional                          [Project Itemization Reborn Compatibility Patch for
                                       CollectOwl](https://www.nexusmods.com/stalker2heartofchornobyl/mods/2561)
+                                      
   ----------------------------------------------------------------------------------------------------------------
 
 ## Mildly Overpowered
@@ -423,6 +433,7 @@
 
   ✓ Enabled                           [Sota - Zero Weight Quest
                                       Items](https://www.nexusmods.com/stalker2heartofchornobyl/mods/1935)
+                                      
   ----------------------------------------------------------------------------------------------------------------
 
 ## Moderately Overpowered
@@ -476,6 +487,7 @@
 
   ○ Optional                          [Unlimited Breath
                                       ADS](https://www.nexusmods.com/stalker2heartofchornobyl/mods/2380)
+                                      
   ----------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
