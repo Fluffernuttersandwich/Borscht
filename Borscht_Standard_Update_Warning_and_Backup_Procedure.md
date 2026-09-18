@@ -1,7 +1,7 @@
 # Borscht --- Standard Update Warning & Backup Procedure
 
-> [!WARNING] **There is no guarantee that updating Borscht will be
-> safe for an existing save.**
+> [!WARNING] 
+**There is no guarantee that updating Borscht will be safe for an existing save.**
 >
 > Borscht updates can add, remove, or change mods, frameworks, scripts,
 > and gameplay systems. STALKER 2 itself may also receive updates that
@@ -137,5 +137,6 @@ If you update Borscht, load your existing game, discover something is wrong, and
 7.  Exit the game, restore your backed-up save if necessary, and return
     to your preserved `[NoDelete]` profile.
 
-> \[!IMPORTANT\] For significant Borscht or STALKER 2 updates,
+> [!IMPORTANT]
+> For significant Borscht or STALKER 2 updates,
 > **starting a new game remains the safest option.**
