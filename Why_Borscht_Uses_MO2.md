@@ -152,4 +152,7 @@ More time:
 
 # 🎯 Borscht's Goal
 
+<img width="964" height="960" alt="image" src="https://github.com/user-attachments/assets/eef842eb-7851-47a6-a950-5537164eb8ab" />
+
+
 **Spend less time fighting your mod installation and more time exploring the Zone. ☢️**
