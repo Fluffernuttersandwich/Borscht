@@ -19,7 +19,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "PLACEHOLDER_IMAGE_URL",
+      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Borscht/main/assets/Borscht_Wabbajack_Gallery_Image.png",
       "readme": "https://github.com/Fluffernuttersandwich/Borscht",
       "download": "PLACEHOLDER_WABBAJACK_DOWNLOAD_URL",
       "machineURL": "Borscht",
