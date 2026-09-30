@@ -11,8 +11,7 @@
     "tags": [
       "vanilla-plus",
       "modular",
-      "quality-of-life",
-      "stalker2"
+      "quality-of-life"
     ],
     "nsfw": false,
     "image_contains_title": true,
@@ -21,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Borscht/main/assets/Borscht_Wabbajack_Gallery_Image.png",
       "readme": "https://github.com/Fluffernuttersandwich/Borscht",
-      "download": "PLACEHOLDER_WABBAJACK_DOWNLOAD_URL",
+      "download": "https://authored-files.wabbajack.org/Borscht.wabbajack_92b4d8c0-64ca-4886-b32b-909044a6a9e7",
       "machineURL": "Borscht",
       "discordURL": "https://discord.gg/Ay2pVZHE7S"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "",
-      "Size": 0,
-      "NumberOfArchives": 0,
-      "SizeOfArchives": 0,
-      "NumberOfInstalledFiles": 0,
-      "SizeOfInstalledFiles": 0
+      "Hash": "ENtWZgzOla0=",
+      "Size": 6879654,
+      "NumberOfArchives": 157,
+      "SizeOfArchives": 8219909016,
+      "NumberOfInstalledFiles": 4911,
+      "SizeOfInstalledFiles": 9622932044
     },
     "version": "2.0.0.0"
   }
