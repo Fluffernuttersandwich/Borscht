@@ -95,10 +95,6 @@ However, that configuration is only the starting point.
 Many included mods can be individually enabled or disabled through Mod Organizer 2, allowing experienced users to customize Borscht considerably.
 
 
-List of included mods:
-
-https://www.nexusmods.com/games/stalker2heartofchornobyl/collections/mb4pa4/mods
-
 ---
 
 ## Compatibility
@@ -234,35 +230,11 @@ Before making extensive changes, create a copy of the default profile.
 
 ## Included Mods
 
-A complete list of included mods will be published alongside the first public release.
+List of included mods:
 
-Borscht may include mods affecting areas such as:
-
-- Gameplay
-- Combat
-- Ballistics
-- Weapons
-- Equipment
-- Armor
-- Artifacts
-- Mutants
-- NPCs
-- Economy
-- Survival
-- Exploration
-- Weather
-- Lighting
-- Visuals
-- Audio
-- User Interface
-- Quality of Life
-- Immersion
-- Bug Fixes
-- Performance
-- Miscellaneous Improvements
+https://www.nexusmods.com/games/stalker2heartofchornobyl/collections/mb4pa4/mods
 
 Not every included mod is necessarily enabled by default.
-
 
 ---
 
