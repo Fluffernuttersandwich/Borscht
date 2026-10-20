@@ -359,18 +359,12 @@ Your Wabbajack folder, Borscht installation folder, and vanilla S.T.A.L.K.E.R. 2
 
 # ⬇️ Step 8 -- Install Borscht
 
-### Borscht is not _currently_ available in the Wabbajack Gallery
-
-
-<img width="1812" height="822" alt="image" src="https://github.com/user-attachments/assets/59611653-a7c3-4291-a8bc-d1c90a98845b" />
-
-
-Download the Borscht.wabbajack file from the NexusMods page: https://www.nexusmods.com/stalker2heartofchornobyl/mods/2376?tab=files
+### Borscht is available in the Wabbajack application's Gallery.
 
 1.  Open the **Wabbajack** application by running wabbajack.exe.
 2.  Browse Modlists.
-3.  Install from Disk button
-4.  Select the Borscht.wabbajack file you downloaded from NexusMods
+3.  Games Dropdown: Satalker2
+4.  Download and Install Borscht.
 5.  Select and/or create the Installation folder for Borscht.
 
 Choose the folder you created in Step 7, like the Examples below:
