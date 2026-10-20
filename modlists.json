@@ -23,7 +23,12 @@
       "machineURL": "Borscht",
       "discordURL": "https://discord.gg/Ay2pVZHE7S",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "527009",
+        "slug": "mb4pa4",
+        "domainName": "stalker2heartofchornobyl",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "Zq/Z47bA99Y=",
