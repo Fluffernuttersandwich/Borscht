@@ -95,6 +95,10 @@ However, that configuration is only the starting point.
 Many included mods can be individually enabled or disabled through Mod Organizer 2, allowing experienced users to customize Borscht considerably.
 
 
+List of included mods:
+
+https://www.nexusmods.com/games/stalker2heartofchornobyl/collections/mb4pa4/mods
+
 ---
 
 ## Compatibility
