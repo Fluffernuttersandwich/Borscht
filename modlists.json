@@ -1,36 +1,42 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Borscht",
-    "description": "A modular Vanilla+ Wabbajack mod list for S.T.A.L.K.E.R. 2: Heart of Chornobyl.",
+    "description": "A modular Vanilla\u002B Wabbajack mod list for S.T.A.L.K.E.R. 2: Heart of Chornobyl.",
     "author": "FinFNS",
     "maintainers": [
       "github/Fluffernuttersandwich"
     ],
-    "game": "Stalker2",
+    "game": "stalker2",
+    "official": false,
     "tags": [
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Borscht/refs/heads/main/assets/Borscht_Gallery_1600x900.jpg",
       "readme": "https://github.com/Fluffernuttersandwich/Borscht",
-      "download": "https://authored-files.wabbajack.org/Borscht.wabbajack_92b4d8c0-64ca-4886-b32b-909044a6a9e7",
+      "download": "https://authored-files.wabbajack.org/Borscht.wabbajack_71dc6315-2bd9-4d8b-9018-ef3ffd82b3c3",
       "machineURL": "Borscht",
-      "discordURL": "https://discord.gg/Ay2pVZHE7S"
+      "discordURL": "https://discord.gg/Ay2pVZHE7S",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ENtWZgzOla0=",
-      "Size": 6879654,
-      "NumberOfArchives": 157,
-      "SizeOfArchives": 8219909016,
-      "NumberOfInstalledFiles": 4911,
-      "SizeOfInstalledFiles": 9622932044
+      "Hash": "Zq/Z47bA99Y=",
+      "Size": 7055415,
+      "NumberOfArchives": 208,
+      "SizeOfArchives": 16269280163,
+      "NumberOfInstalledFiles": 5269,
+      "SizeOfInstalledFiles": 18694497128,
+      "TotalSize": 34963777291
     },
-    "version": "2.0.6.7"
+    "version": "2.0.6.7",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-10-20T19:32:16.9185291Z",
+    "repositoryName": ""
   }
 ]
