@@ -16,7 +16,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Borscht/main/assets/Borscht_Wabbajack_Gallery_Image.png",
+      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Borscht/refs/heads/main/assets/Borscht_Gallery_1600x900.jpg",
       "readme": "https://github.com/Fluffernuttersandwich/Borscht",
       "download": "https://authored-files.wabbajack.org/Borscht.wabbajack_92b4d8c0-64ca-4886-b32b-909044a6a9e7",
       "machineURL": "Borscht",
