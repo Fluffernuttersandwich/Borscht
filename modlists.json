@@ -15,7 +15,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Borscht/refs/heads/main/assets/Borscht_Gallery_1600x900.jpg",
       "readme": "https://github.com/Fluffernuttersandwich/Borscht",
